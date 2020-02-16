@@ -1,0 +1,2 @@
+# StipaKabMinistrov
+Стипендия
